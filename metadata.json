@@ -1,0 +1,12 @@
+{
+  "name": "WCF Rest API + APP",
+  "type": "sample",
+  "tags": [
+    "dotnet",
+    "wcf",
+    "javascript",
+    "single-page-app",
+    "web",
+    "api"
+  ]
+}
